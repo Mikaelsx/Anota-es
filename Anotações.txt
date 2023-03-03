@@ -1,0 +1,49 @@
+Git:
+Criar repositorios no git hub
+1- new repository (add redme)
+2- abrir terminal git
+3- git clone (para clonar arquivo)
+4- shift + insert (para colar o link)
+
+Criar repositórios em um projeto já existente
+5- criar documento
+6- clickar encima e abrir terminal/git
+7- git add .
+8- git commit -m "   "
+9- git push origin main
+
+Css:
+Header: é basícamente o cabeçalho
+H1: Título principal
+Nav: Links de navegação
+Links: ligação entre páginas
+Body: É o corpo de um documento
+Main: Define o conteúdo principal dentro do body
+Footer: É o rodape
+Section: representa texto que não é semantico (ou seja texto que não faz parte do título)
+Aside: É um containder que usa a lateral
+Article: É um elemento que pode ser usado de forma independente
+Span: É um elemento que não representa nada mas pode ser usado para fins de estilo
+Ihinit: transforma todas as fontes filho (faz as fontes seguintes herdarem as carcteristícas)
+a: Cria Links dentro do site
+pseudo classe: :hover (ao passar o mouse o botão muda de cor)
+
+
+Shorthand:
+margin:10px; /* todos os cantos*/
+margin:0% 10px; /* top/botton right/left*/
+margin:0% 20px 10px; /* top right/left botton*/
+margin: 10px 10px 10px 10px; /* top right botton left*/
+
+Reset: umas das tags principais pois arruma o header e o body mudando o espaçamento
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+Dontpad.com: site de bloco de notas compartilhado
+
+
+Centralização:
+top/botton/left/right: calc(50% - 25px); 
