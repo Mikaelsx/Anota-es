@@ -27,6 +27,7 @@ Span: É um elemento que não representa nada mas pode ser usado para fins de es
 Ihinit: transforma todas as fontes filho (faz as fontes seguintes herdarem as carcteristícas)
 a: Cria Links dentro do site
 pseudo classe: :hover (ao passar o mouse o botão muda de cor)
+url (../): abrir images/fonts no local
 
 
 Shorthand:
